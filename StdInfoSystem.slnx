@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../BSutility1/BSutility1.csproj" Id="769d4691-2386-4885-915f-bf3faa05a85c" />
+  <Project Path="../DALL/DALL.csproj" Id="9f497a06-83b4-4b02-b4e7-b8316c000065" />
+  <Project Path="../DBhelper1/DBhelper1.csproj" Id="0f760c45-d3df-4a3f-adf6-aacd1646dc81" />
+  <Project Path="StdInfoSystem.csproj" Id="9584261f-addf-437d-a177-60101ad035fd" />
+</Solution>
